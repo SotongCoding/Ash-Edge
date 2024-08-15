@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6347a26c93970463d8c538feac60c5d7, type: 3}
+  m_Name: CHR-001-Lyhn
+  m_EditorClassIdentifier: 
+  MasterCharacterId: CHR-001
+  GeneralInfo:
+    CharacterName: Lyhn
+    CharacterDescription: Some Guy with black cloths
+  BaseStat:
+    _power: 12
+    _defense: 10
+    _health: 50
+    _evasionRate: 10
+    _blockRate: 15
+    _criticalRate: 15
+    _criticalDamage: 0
+  VisualConfig:
+    CharacterIcon: {fileID: 21300000, guid: 685f3e398a2485c489bde5ad0c466114, type: 3}
+    AnimatorController: {fileID: 9100000, guid: b3aeb90ae29e44da7a7b1000e0254b0d, type: 2}
+  InitialSkills:
+    TestSkill: {fileID: 11400000, guid: 270efb64e710f4be29b81c8194ea0e7c, type: 2}
+    TestTalent: {fileID: 0}
+    Rank1SkillId: 
+    Rank2SkillId: 
+    Rank3SkillId: 
+    Rank4SkillId: 
+    Rank5SkillId: 
+    Rank6SkillId: 
+    Rank7SkillId: 
+    Rank8SkillId: 
+    Rank9SkillId: 
+    Rank10SkillId: 
+    CharacterTalentMasterId: 

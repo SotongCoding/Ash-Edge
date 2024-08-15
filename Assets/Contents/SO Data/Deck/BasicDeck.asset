@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9930f19f42b944fba9cc5dd8120cf61b, type: 3}
+  m_Name: BasicDeck
+  m_EditorClassIdentifier: 
+  _cards:
+  - CardType: 0
+    CardPower: 1
+    MasterCardId: CRD-001
+  - CardType: 0
+    CardPower: 2
+    MasterCardId: CRD-001
+  - CardType: 0
+    CardPower: 3
+    MasterCardId: CRD-001
+  - CardType: 0
+    CardPower: 4
+    MasterCardId: CRD-001
+  - CardType: 0
+    CardPower: 5
+    MasterCardId: CRD-001
+  - CardType: 0
+    CardPower: 6
+    MasterCardId: CRD-001
+  - CardType: 0
+    CardPower: 7
+    MasterCardId: CRD-001
+  - CardType: 0
+    CardPower: 8
+    MasterCardId: CRD-001
+  - CardType: 0
+    CardPower: 9
+    MasterCardId: CRD-001
+  - CardType: 0
+    CardPower: 0
+    MasterCardId: CRD-001
+  - CardType: 1
+    CardPower: 0
+    MasterCardId: CRD-002
+  - CardType: 1
+    CardPower: 1
+    MasterCardId: CRD-002
+  - CardType: 1
+    CardPower: 2
+    MasterCardId: CRD-002
+  - CardType: 1
+    CardPower: 3
+    MasterCardId: CRD-002
+  - CardType: 1
+    CardPower: 4
+    MasterCardId: CRD-002
+  - CardType: 1
+    CardPower: 5
+    MasterCardId: CRD-002
+  - CardType: 1
+    CardPower: 6
+    MasterCardId: CRD-002
+  - CardType: 1
+    CardPower: 7
+    MasterCardId: CRD-002
+  - CardType: 1
+    CardPower: 8
+    MasterCardId: CRD-002
+  - CardType: 1
+    CardPower: 9
+    MasterCardId: CRD-002
+  - CardType: 2
+    CardPower: 0
+    MasterCardId: CRD-003
+  - CardType: 2
+    CardPower: 1
+    MasterCardId: CRD-003
+  - CardType: 2
+    CardPower: 2
+    MasterCardId: CRD-003
+  - CardType: 2
+    CardPower: 3
+    MasterCardId: CRD-003
+  - CardType: 2
+    CardPower: 4
+    MasterCardId: CRD-003
+  - CardType: 2
+    CardPower: 5
+    MasterCardId: CRD-003
+  - CardType: 2
+    CardPower: 6
+    MasterCardId: CRD-003
+  - CardType: 2
+    CardPower: 7
+    MasterCardId: CRD-003
+  - CardType: 2
+    CardPower: 8
+    MasterCardId: CRD-003
+  - CardType: 2
+    CardPower: 9
+    MasterCardId: CRD-003
+  - CardType: 3
+    CardPower: 0
+    MasterCardId: CRD-004
+  - CardType: 3
+    CardPower: 1
+    MasterCardId: CRD-004
+  - CardType: 3
+    CardPower: 2
+    MasterCardId: CRD-004
+  - CardType: 3
+    CardPower: 3
+    MasterCardId: CRD-004
+  - CardType: 3
+    CardPower: 4
+    MasterCardId: CRD-004
+  - CardType: 3
+    CardPower: 5
+    MasterCardId: CRD-004
+  - CardType: 3
+    CardPower: 6
+    MasterCardId: CRD-004
+  - CardType: 3
+    CardPower: 7
+    MasterCardId: CRD-004
+  - CardType: 3
+    CardPower: 8
+    MasterCardId: CRD-004
+  - CardType: 3
+    CardPower: 9
+    MasterCardId: CRD-004

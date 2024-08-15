@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0db50c79076c344ffb1817b091fe7131, type: 3}
+  m_Name: Master Card Contents
+  m_EditorClassIdentifier: 
+  _typeReferenceString: SotongStudio.AshEdge.GameData.Card.MasterCardData, Assembly-CSharp,
+    Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  _typeReference: {fileID: 11500000, guid: fd98d42938c814355b6aca4b86de4d5b, type: 3}
+  _allAsset:
+  - {fileID: 11400000, guid: 77c19c81919e6419d99c3b666f6614df, type: 2}
+  - {fileID: 11400000, guid: b37b0535411db4d9395a52d81638f29d, type: 2}
+  - {fileID: 11400000, guid: b34057c60883c4bab99c4689974d9ba1, type: 2}
+  - {fileID: 11400000, guid: d063069957e5c46819b8e2b44f9e0257, type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d7154dc20b7944c380c33a6a11e2eb0, type: 3}
+  m_Name: SKL-000-Sample Skill
+  m_EditorClassIdentifier: 
+  SkillId: SKL-000
+  GeneralInfo:
+    SkillName: SAMPLE SKILL
+    SkillDescription: Skill only for Sample
+  AnimationData:
+    AnimatorReference: {fileID: 9100000, guid: b3aeb90ae29e44da7a7b1000e0254b0d, type: 2}
+    AnimationKeyOrder:
+    - Attack
+    - Idle
+    - Attack
+  SkillRules:
+  - {fileID: 11400000, guid: e999e7ab3a4794c32b925cedd63b6d83, type: 2}
+  SkillIcon: {fileID: 21300000, guid: 375cd693c10701b449e875e193598718, type: 3}
