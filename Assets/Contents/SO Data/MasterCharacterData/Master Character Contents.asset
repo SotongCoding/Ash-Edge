@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36a0780f644f040e58eb4bb0e7cd7ea0, type: 3}
+  m_Name: Master Character Contents
+  m_EditorClassIdentifier: 
+  _typeReferenceString: SotongStudio.AshEdge.GameData.Character.MasterCharacterData,
+    Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  _typeReference: {fileID: 11500000, guid: 6347a26c93970463d8c538feac60c5d7, type: 3}
+  _allAsset:
+  - {fileID: 11400000, guid: ac3dfc27f1f664e5abf8e8ec6c0aa7a8, type: 2}
+  - {fileID: 11400000, guid: d86f76ade9cbe44d7adcddc8c80bad5b, type: 2}

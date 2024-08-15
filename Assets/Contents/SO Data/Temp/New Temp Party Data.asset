@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 655621d653f9334458ad28ad01b53b7b, type: 3}
+  m_Name: New Temp Party Data
+  m_EditorClassIdentifier: 
+  _partyUnits:
+  - Unit:
+      UnitId: CH-001
+      Status:
+        _health: 100
+        _power: 10
+        _defense: 7
+      ModifiedStatus:
+        _health: 0
+        _power: 0
+        _defense: 0
+      GeneralInfo:
+        Name: Lhyn
+        UnityPotraitIcon: {fileID: 21300000, guid: 685f3e398a2485c489bde5ad0c466114, type: 3}
+        animatorController: {fileID: 9100000, guid: b3aeb90ae29e44da7a7b1000e0254b0d, type: 2}
+    GrowthStatus:
+      EachGrowthData:
+        _health: 50
+        _power: 2
+        _defense: 1
+  - Unit:
+      UnitId: CH-002
+      Status:
+        _health: 120
+        _power: 10
+        _defense: 7
+      ModifiedStatus:
+        _health: 0
+        _power: 0
+        _defense: 0
+      GeneralInfo:
+        Name: Tio
+        UnityPotraitIcon: {fileID: 21300000, guid: 7473944c7c3dfd84d9422ac2b791247d, type: 3}
+        animatorController: {fileID: 9100000, guid: 0df5cdb1afcd6479cb4319d146d44021, type: 2}
+    GrowthStatus:
+      EachGrowthData:
+        _health: 75
+        _power: 1
+        _defense: 1

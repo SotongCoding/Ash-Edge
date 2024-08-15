@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0e639328991a459b807716afd4c65f2, type: 3}
+  m_Name: EMY-001-Cave Guard A
+  m_EditorClassIdentifier: 
+  MasterEnemyId: EMY-001
+  GeneralInfo:
+    EnemyName: Guard A
+    EnemyDescription: Defender of Cave
+  BaseStat:
+    _power: 15
+    _defense: 8
+    _health: 8
+    _evasionRate: 10
+    _blockRate: 10
+    _criticalRate: 10
+    _criticalDamage: 10
+  VisualConfig:
+    EnemyIcon: {fileID: 21300000, guid: 6d45bda3ae5a3dd47a52503b3c31b8eb, type: 3}
+    AnimatorController: {fileID: 9100000, guid: aca185ac253a74e37af31497062da234, type: 2}
+  InitialSkills:
+    Skills:
+    - {fileID: 11400000, guid: 270efb64e710f4be29b81c8194ea0e7c, type: 2}

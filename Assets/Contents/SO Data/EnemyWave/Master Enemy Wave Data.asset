@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d79331c1b4cfc4814b436a956a6a651a, type: 3}
+  m_Name: Master Enemy Wave Data
+  m_EditorClassIdentifier: 
+  _typeReferenceString: SotongStudio.AshEdge.GameData.Enemy.MasterEnemyWaveData,
+    Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  _typeReference: {fileID: 11500000, guid: d4d2cfcbd3d3941f58e95fe2334f79d8, type: 3}
+  _allAsset:
+  - {fileID: 11400000, guid: 9d1bfb888900d4783826a4c50e4c4cd1, type: 2}
